@@ -15,3 +15,7 @@ git commit -m "mensaje que quire colocar"
 sincronizar git con github
 
 git push origin master
+
+
+curso de sessiones
+https://www.youtube.com/watch?v=_EUze9nE09M&list=PLGIvoD9Ur9I3_3NcQRIV3lBs9srqwYAki
