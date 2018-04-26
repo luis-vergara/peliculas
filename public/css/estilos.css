@@ -1,4 +1,4 @@
-html{background-color: #1D1D1D;}
+html{background-color: #141414;}
 
 a{
     text-decoration: none;
@@ -31,7 +31,7 @@ a:hover{opacity: .75;}
 }
 .poster{max-width: 100px;}
 .table{width:100px;}
-.table td, .table th {padding:1rem;}
+.table td, .table th {padding:1.3rem;}
 .table tr:first-child{
     background-color:#292623;
     color: #80BD01;
